@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Titillium+Web:ital,wght@1,200&display=swap');
+*{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+
+.Container{
+   
+    margin-top: 50px;
+    height: 500px;
+    text-align: center;
+   
+  
+   
+    
+} 
+.Container div{
+    margin-top: 30px;
+}
+.timerScreen{
+    text-align: center;
+    font-size: 30px;
+
+
+    
+}
+.reset{
+    text-align: center;
+}
+.reset button{
+    background-color: #dbd8e3;
+    color: #2a2438;
+}
+.reset button:hover{
+    background-color: #5c5470;
+}
+.reset button :active{
+    background-color: #5c5470;
+}
+.inc{
+    text-align: center;
+}
+
+.counterC{
+    border: 2px solid #5c5470;
+    background-color: #2a2438;
+    color:#dbd8e3;
+}
+.inc button{
+    background-color: #dbd8e3;
+    color: #2a2438;
+}
+.inc button:hover{
+    background-color: #5c5470;
+}
+.inc button :active{
+    background-color: #5c5470;
+}
+.chead{
+    margin-top: 20px;
+    font-size: 40px;
+    
+}
